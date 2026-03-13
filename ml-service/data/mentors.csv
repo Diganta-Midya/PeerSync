@@ -1,0 +1,201 @@
+mentor_id,name,teaching_style,subject_expertise,availability,semester,patience_score
+M1,Mentor_1,Auditory,Machine Learning|Data Structures|Database Systems,Mon_Evening|Thu_Morning|Tue_Afternoon|Tue_Morning,7,3.1
+M2,Mentor_2,Auditory,Calculus,Fri_Afternoon|Mon_Morning|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon|Wed_Morning,4,4.5
+M3,Mentor_3,Read-Write,Computer Networks,Fri_Evening|Mon_Afternoon|Thu_Afternoon|Tue_Afternoon|Wed_Morning,7,3.2
+M4,Mentor_4,Visual,Statistics|Database Systems,Fri_Evening|Fri_Morning|Mon_Afternoon|Thu_Afternoon|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Evening,6,4.2
+M5,Mentor_5,Read-Write,Machine Learning|Data Structures|Calculus,Fri_Morning|Tue_Morning|Wed_Afternoon,6,3.9
+M6,Mentor_6,Read-Write,Web Development|Operating Systems,Mon_Evening|Sat_Evening|Tue_Evening|Wed_Evening,5,3.3
+M7,Mentor_7,Auditory,Database Systems|Java,Fri_Afternoon|Fri_Morning|Mon_Afternoon|Mon_Morning|Thu_Afternoon|Tue_Evening|Wed_Afternoon|Wed_Morning,6,3.1
+M8,Mentor_8,Kinesthetic,Operating Systems|Calculus|Python,Fri_Evening|Fri_Morning|Mon_Evening|Sat_Morning|Thu_Evening|Tue_Afternoon|Tue_Morning|Wed_Evening,6,4.5
+M9,Mentor_9,Read-Write,Statistics|Computer Networks,Mon_Afternoon|Sat_Afternoon|Sat_Morning|Tue_Afternoon,4,4.7
+M10,Mentor_10,Kinesthetic,Web Development,Fri_Morning|Mon_Evening|Sat_Afternoon|Thu_Morning|Tue_Afternoon|Wed_Afternoon|Wed_Evening,8,4.7
+M11,Mentor_11,Read-Write,Machine Learning,Mon_Evening|Mon_Morning|Thu_Afternoon|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon|Wed_Morning,8,4.5
+M12,Mentor_12,Auditory,Machine Learning|Database Systems|Calculus,Mon_Morning|Sat_Afternoon|Sat_Evening|Thu_Morning|Tue_Evening,7,3.0
+M13,Mentor_13,Visual,Database Systems|Calculus,Fri_Afternoon|Mon_Evening|Sat_Evening|Sat_Morning,4,5.0
+M14,Mentor_14,Auditory,Web Development|Statistics|Python,Fri_Afternoon|Fri_Evening|Sat_Afternoon|Wed_Evening|Wed_Morning,5,4.4
+M15,Mentor_15,Kinesthetic,Operating Systems|Python,Mon_Evening|Sat_Evening|Wed_Afternoon,6,3.0
+M16,Mentor_16,Visual,Calculus|Statistics|Data Structures,Fri_Evening|Mon_Afternoon|Mon_Evening|Mon_Morning|Sat_Evening|Tue_Evening|Wed_Afternoon|Wed_Evening,5,3.6
+M17,Mentor_17,Auditory,Calculus|Java,Fri_Morning|Mon_Afternoon|Sat_Evening|Sat_Morning|Thu_Evening|Tue_Morning|Wed_Afternoon|Wed_Morning,7,3.7
+M18,Mentor_18,Visual,Python|Data Structures,Fri_Morning|Thu_Afternoon|Tue_Morning,5,3.4
+M19,Mentor_19,Auditory,Python|Web Development|Computer Networks,Fri_Evening|Fri_Morning|Mon_Evening|Sat_Afternoon|Wed_Afternoon,8,3.2
+M20,Mentor_20,Auditory,Java|Data Structures|Machine Learning,Fri_Afternoon|Sat_Afternoon|Sat_Morning|Tue_Morning,7,4.8
+M21,Mentor_21,Visual,Computer Networks,Fri_Afternoon|Fri_Evening|Thu_Evening|Thu_Morning|Wed_Evening|Wed_Morning,8,4.3
+M22,Mentor_22,Read-Write,Web Development|Calculus,Mon_Afternoon|Mon_Morning|Sat_Evening|Thu_Afternoon,4,4.2
+M23,Mentor_23,Visual,Java|Web Development|Data Structures,Mon_Evening|Sat_Evening|Wed_Afternoon|Wed_Morning,4,4.9
+M24,Mentor_24,Kinesthetic,Calculus|Data Structures|Machine Learning,Fri_Evening|Sat_Afternoon|Sat_Evening|Thu_Afternoon|Thu_Evening|Tue_Evening|Tue_Morning|Wed_Evening,6,3.8
+M25,Mentor_25,Visual,Database Systems|Python|Operating Systems,Fri_Evening|Mon_Evening|Tue_Morning,8,3.4
+M26,Mentor_26,Visual,Web Development|Operating Systems,Thu_Evening|Thu_Morning|Tue_Evening|Wed_Afternoon,8,4.4
+M27,Mentor_27,Visual,Java|Data Structures|Database Systems,Sat_Afternoon|Thu_Evening|Tue_Morning|Wed_Evening,8,3.3
+M28,Mentor_28,Read-Write,Statistics|Calculus,Sat_Afternoon|Sat_Morning|Tue_Afternoon|Wed_Evening,4,3.2
+M29,Mentor_29,Visual,Database Systems|Data Structures,Thu_Evening|Tue_Afternoon|Tue_Evening|Wed_Afternoon|Wed_Evening,8,4.4
+M30,Mentor_30,Auditory,Data Structures|Machine Learning|Java,Mon_Afternoon|Mon_Evening|Mon_Morning|Sat_Morning|Thu_Evening|Tue_Afternoon|Wed_Morning,6,4.8
+M31,Mentor_31,Auditory,Operating Systems,Fri_Morning|Mon_Evening|Thu_Evening|Thu_Morning|Tue_Morning|Wed_Afternoon|Wed_Evening|Wed_Morning,5,4.7
+M32,Mentor_32,Visual,Computer Networks,Fri_Afternoon|Thu_Afternoon|Tue_Afternoon|Wed_Afternoon,5,4.6
+M33,Mentor_33,Visual,Computer Networks,Fri_Evening|Fri_Morning|Tue_Afternoon|Tue_Evening|Wed_Afternoon|Wed_Morning,5,3.4
+M34,Mentor_34,Read-Write,Calculus|Computer Networks|Operating Systems,Fri_Morning|Thu_Evening|Wed_Evening,8,3.7
+M35,Mentor_35,Read-Write,Machine Learning,Mon_Afternoon|Thu_Morning|Tue_Morning|Wed_Evening,7,3.7
+M36,Mentor_36,Visual,Computer Networks|Java,Mon_Afternoon|Mon_Morning|Sat_Evening|Thu_Evening|Wed_Evening|Wed_Morning,8,4.9
+M37,Mentor_37,Visual,Calculus|Operating Systems|Computer Networks,Fri_Afternoon|Sat_Afternoon|Sat_Evening|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Tue_Morning|Wed_Evening,7,3.7
+M38,Mentor_38,Auditory,Database Systems|Java|Web Development,Fri_Morning|Mon_Morning|Thu_Morning|Tue_Evening|Wed_Evening|Wed_Morning,6,3.6
+M39,Mentor_39,Kinesthetic,Statistics|Operating Systems,Fri_Evening|Fri_Morning|Sat_Evening|Sat_Morning|Thu_Evening|Wed_Morning,5,4.3
+M40,Mentor_40,Visual,Java|Operating Systems,Mon_Evening|Thu_Morning|Wed_Afternoon|Wed_Morning,4,3.1
+M41,Mentor_41,Kinesthetic,Statistics|Machine Learning,Fri_Morning|Mon_Evening|Sat_Evening|Sat_Morning|Tue_Morning|Wed_Morning,4,4.8
+M42,Mentor_42,Auditory,Computer Networks,Fri_Evening|Mon_Afternoon|Sat_Afternoon|Wed_Evening,5,4.8
+M43,Mentor_43,Auditory,Python,Fri_Afternoon|Fri_Evening|Sat_Afternoon|Thu_Afternoon|Thu_Evening|Thu_Morning,8,3.9
+M44,Mentor_44,Kinesthetic,Python|Web Development|Statistics,Sat_Morning|Thu_Afternoon|Tue_Morning|Wed_Afternoon|Wed_Evening,6,3.9
+M45,Mentor_45,Read-Write,Database Systems|Calculus|Statistics,Mon_Evening|Sat_Afternoon|Sat_Evening|Tue_Afternoon|Tue_Morning,7,4.4
+M46,Mentor_46,Kinesthetic,Calculus|Machine Learning|Computer Networks,Fri_Afternoon|Fri_Evening|Mon_Morning|Sat_Evening|Tue_Morning,7,3.8
+M47,Mentor_47,Visual,Data Structures|Computer Networks|Python,Fri_Afternoon|Fri_Morning|Thu_Evening|Thu_Morning|Wed_Evening,8,4.6
+M48,Mentor_48,Auditory,Python,Fri_Afternoon|Mon_Morning|Sat_Morning|Tue_Evening|Wed_Morning,7,4.4
+M49,Mentor_49,Visual,Web Development|Java,Fri_Afternoon|Mon_Evening|Mon_Morning|Sat_Afternoon|Sat_Morning|Wed_Afternoon,5,3.1
+M50,Mentor_50,Kinesthetic,Operating Systems|Calculus,Fri_Afternoon|Fri_Morning|Sat_Afternoon|Thu_Afternoon|Wed_Evening,7,3.5
+M51,Mentor_51,Visual,Python,Fri_Afternoon|Mon_Afternoon|Mon_Morning|Sat_Afternoon|Sat_Evening|Thu_Afternoon|Thu_Evening|Tue_Morning,4,4.9
+M52,Mentor_52,Auditory,Data Structures,Sat_Morning|Thu_Morning|Tue_Afternoon|Tue_Morning,5,3.9
+M53,Mentor_53,Visual,Operating Systems|Web Development,Fri_Evening|Mon_Morning|Thu_Morning|Tue_Morning,6,4.2
+M54,Mentor_54,Visual,Computer Networks|Calculus,Fri_Afternoon|Mon_Afternoon|Sat_Morning|Thu_Afternoon|Thu_Morning|Tue_Morning|Wed_Afternoon,8,4.6
+M55,Mentor_55,Read-Write,Java|Computer Networks,Mon_Morning|Sat_Afternoon|Thu_Afternoon,7,4.6
+M56,Mentor_56,Read-Write,Computer Networks,Fri_Afternoon|Fri_Evening|Mon_Evening|Sat_Afternoon|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Wed_Evening,8,4.6
+M57,Mentor_57,Read-Write,Python|Statistics|Computer Networks,Fri_Evening|Mon_Evening|Sat_Evening|Wed_Afternoon|Wed_Evening,5,4.5
+M58,Mentor_58,Visual,Statistics|Computer Networks|Operating Systems,Fri_Morning|Sat_Afternoon|Sat_Morning|Thu_Afternoon|Tue_Evening|Tue_Morning,6,3.7
+M59,Mentor_59,Auditory,Database Systems|Java|Data Structures,Fri_Afternoon|Sat_Morning|Wed_Afternoon,8,4.5
+M60,Mentor_60,Visual,Python|Statistics|Java,Fri_Morning|Thu_Morning|Wed_Afternoon,5,3.6
+M61,Mentor_61,Kinesthetic,Operating Systems|Python|Statistics,Fri_Evening|Fri_Morning|Sat_Evening|Sat_Morning|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Wed_Afternoon,5,3.2
+M62,Mentor_62,Visual,Operating Systems,Sat_Evening|Thu_Evening|Thu_Morning|Tue_Afternoon|Tue_Evening|Tue_Morning|Wed_Afternoon|Wed_Morning,8,4.2
+M63,Mentor_63,Read-Write,Calculus,Mon_Morning|Thu_Evening|Thu_Morning|Tue_Evening,8,3.3
+M64,Mentor_64,Read-Write,Data Structures,Fri_Afternoon|Mon_Morning|Sat_Evening|Sat_Morning|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon,7,3.9
+M65,Mentor_65,Read-Write,Data Structures,Fri_Morning|Mon_Afternoon|Mon_Evening|Thu_Morning|Tue_Morning|Wed_Afternoon,4,3.3
+M66,Mentor_66,Visual,Database Systems|Machine Learning|Calculus,Fri_Afternoon|Fri_Evening|Fri_Morning|Sat_Afternoon|Thu_Morning|Tue_Afternoon|Wed_Afternoon,7,3.6
+M67,Mentor_67,Auditory,Data Structures|Machine Learning|Calculus,Mon_Evening|Sat_Evening|Tue_Evening|Wed_Afternoon|Wed_Evening,4,3.3
+M68,Mentor_68,Read-Write,Python|Statistics,Sat_Afternoon|Thu_Morning|Wed_Afternoon,7,3.1
+M69,Mentor_69,Auditory,Database Systems,Fri_Evening|Mon_Evening|Sat_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon,4,3.1
+M70,Mentor_70,Kinesthetic,Statistics|Database Systems,Fri_Evening|Fri_Morning|Thu_Morning,6,4.0
+M71,Mentor_71,Visual,Python|Machine Learning,Mon_Afternoon|Mon_Morning|Sat_Evening|Thu_Afternoon|Tue_Morning|Wed_Evening,8,4.2
+M72,Mentor_72,Visual,Database Systems,Fri_Evening|Sat_Afternoon|Sat_Evening|Sat_Morning,6,3.4
+M73,Mentor_73,Kinesthetic,Computer Networks|Python|Machine Learning,Fri_Afternoon|Mon_Afternoon|Sat_Afternoon|Sat_Morning|Thu_Afternoon,5,3.7
+M74,Mentor_74,Visual,Python|Database Systems|Computer Networks,Fri_Morning|Mon_Afternoon|Mon_Evening|Thu_Afternoon|Tue_Evening|Wed_Evening,7,4.7
+M75,Mentor_75,Kinesthetic,Java,Fri_Morning|Mon_Afternoon|Thu_Evening|Thu_Morning|Wed_Afternoon|Wed_Morning,7,4.5
+M76,Mentor_76,Auditory,Database Systems,Fri_Evening|Mon_Morning|Sat_Morning|Thu_Afternoon|Tue_Morning,8,4.6
+M77,Mentor_77,Kinesthetic,Web Development|Database Systems|Data Structures,Fri_Evening|Tue_Morning|Wed_Afternoon,4,4.3
+M78,Mentor_78,Read-Write,Python,Fri_Afternoon|Fri_Evening|Sat_Evening|Sat_Morning|Tue_Morning|Wed_Afternoon|Wed_Evening,5,3.8
+M79,Mentor_79,Read-Write,Java|Web Development|Machine Learning,Fri_Afternoon|Mon_Morning|Sat_Afternoon|Thu_Afternoon|Tue_Afternoon|Wed_Evening,6,4.7
+M80,Mentor_80,Kinesthetic,Python|Web Development|Statistics,Fri_Evening|Fri_Morning|Sat_Morning|Thu_Afternoon|Tue_Evening,5,5.0
+M81,Mentor_81,Kinesthetic,Statistics,Fri_Afternoon|Mon_Afternoon|Thu_Afternoon|Thu_Evening,7,4.4
+M82,Mentor_82,Kinesthetic,Computer Networks|Web Development,Sat_Afternoon|Thu_Afternoon|Tue_Afternoon,4,4.7
+M83,Mentor_83,Kinesthetic,Machine Learning|Java,Fri_Afternoon|Sat_Evening|Tue_Afternoon,4,3.9
+M84,Mentor_84,Visual,Operating Systems|Computer Networks,Fri_Morning|Sat_Evening|Sat_Morning|Thu_Afternoon|Thu_Evening,7,4.7
+M85,Mentor_85,Visual,Statistics,Mon_Evening|Thu_Morning|Wed_Afternoon|Wed_Morning,4,4.5
+M86,Mentor_86,Read-Write,Machine Learning|Python|Web Development,Mon_Afternoon|Sat_Evening|Thu_Afternoon,6,3.7
+M87,Mentor_87,Kinesthetic,Web Development|Calculus,Fri_Afternoon|Mon_Afternoon|Sat_Afternoon|Sat_Evening|Thu_Morning|Tue_Evening|Wed_Morning,5,4.0
+M88,Mentor_88,Read-Write,Web Development|Calculus|Python,Fri_Evening|Mon_Morning|Sat_Morning|Thu_Afternoon|Tue_Afternoon|Wed_Evening,8,3.3
+M89,Mentor_89,Kinesthetic,Operating Systems|Database Systems,Fri_Evening|Mon_Afternoon|Sat_Afternoon|Thu_Morning|Tue_Morning|Wed_Afternoon|Wed_Evening|Wed_Morning,7,4.1
+M90,Mentor_90,Kinesthetic,Database Systems|Statistics|Data Structures,Fri_Afternoon|Mon_Afternoon|Mon_Morning|Sat_Morning|Tue_Afternoon,5,4.2
+M91,Mentor_91,Read-Write,Calculus|Statistics,Fri_Morning|Mon_Afternoon|Mon_Morning|Sat_Evening|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon,6,4.5
+M92,Mentor_92,Read-Write,Database Systems,Fri_Afternoon|Fri_Morning|Mon_Evening|Sat_Afternoon|Sat_Evening|Tue_Evening|Wed_Evening|Wed_Morning,8,4.8
+M93,Mentor_93,Kinesthetic,Database Systems,Fri_Evening|Mon_Afternoon|Mon_Evening|Thu_Afternoon|Tue_Morning,5,4.7
+M94,Mentor_94,Visual,Computer Networks|Java|Operating Systems,Mon_Morning|Thu_Afternoon|Tue_Evening|Tue_Morning|Wed_Afternoon|Wed_Evening,6,4.2
+M95,Mentor_95,Kinesthetic,Operating Systems|Machine Learning|Calculus,Sat_Evening|Thu_Afternoon|Wed_Afternoon,4,4.3
+M96,Mentor_96,Visual,Database Systems|Computer Networks,Mon_Afternoon|Sat_Evening|Thu_Morning|Wed_Afternoon,4,3.2
+M97,Mentor_97,Read-Write,Web Development|Computer Networks|Python,Fri_Afternoon|Fri_Evening|Mon_Afternoon|Sat_Evening|Thu_Afternoon|Tue_Afternoon|Wed_Afternoon|Wed_Morning,8,3.8
+M98,Mentor_98,Auditory,Data Structures|Operating Systems,Fri_Evening|Mon_Afternoon|Thu_Afternoon|Thu_Evening|Tue_Evening|Wed_Afternoon,8,4.8
+M99,Mentor_99,Read-Write,Operating Systems|Data Structures|Computer Networks,Fri_Evening|Mon_Evening|Thu_Afternoon|Tue_Morning,5,4.3
+M100,Mentor_100,Auditory,Data Structures|Statistics|Operating Systems,Mon_Evening|Sat_Evening|Thu_Morning|Wed_Morning,5,4.6
+M101,Mentor_101,Auditory,Operating Systems,Fri_Evening|Mon_Evening|Mon_Morning|Sat_Afternoon|Sat_Morning|Tue_Afternoon|Wed_Evening,4,4.3
+M102,Mentor_102,Visual,Web Development,Mon_Evening|Mon_Morning|Thu_Afternoon|Tue_Afternoon|Wed_Afternoon,4,3.3
+M103,Mentor_103,Visual,Java|Machine Learning,Fri_Evening|Sat_Morning|Thu_Evening|Tue_Morning|Wed_Afternoon|Wed_Evening,8,3.1
+M104,Mentor_104,Visual,Java|Database Systems|Python,Fri_Afternoon|Fri_Morning|Sat_Morning,4,4.0
+M105,Mentor_105,Read-Write,Machine Learning|Statistics,Fri_Afternoon|Mon_Evening|Sat_Evening|Sat_Morning|Thu_Afternoon|Thu_Morning|Tue_Afternoon,8,4.4
+M106,Mentor_106,Read-Write,Statistics|Java,Fri_Afternoon|Fri_Morning|Mon_Afternoon|Sat_Afternoon|Thu_Evening|Tue_Morning,8,4.4
+M107,Mentor_107,Kinesthetic,Computer Networks,Fri_Afternoon|Fri_Evening|Thu_Afternoon|Wed_Morning,7,4.5
+M108,Mentor_108,Read-Write,Computer Networks|Operating Systems,Fri_Afternoon|Mon_Afternoon|Mon_Evening|Sat_Morning|Tue_Afternoon,4,3.2
+M109,Mentor_109,Auditory,Operating Systems,Fri_Evening|Mon_Afternoon|Sat_Afternoon|Thu_Afternoon|Tue_Evening|Tue_Morning|Wed_Morning,4,4.9
+M110,Mentor_110,Auditory,Database Systems|Operating Systems|Machine Learning,Sat_Morning|Tue_Evening|Tue_Morning|Wed_Afternoon,8,3.7
+M111,Mentor_111,Kinesthetic,Statistics|Calculus,Mon_Evening|Mon_Morning|Sat_Afternoon|Sat_Evening|Thu_Evening|Tue_Afternoon|Wed_Evening,6,4.8
+M112,Mentor_112,Auditory,Data Structures|Web Development,Fri_Morning|Mon_Afternoon|Mon_Evening|Mon_Morning|Thu_Afternoon|Thu_Evening|Tue_Afternoon,8,3.4
+M113,Mentor_113,Auditory,Python|Operating Systems,Fri_Evening|Mon_Evening|Mon_Morning|Thu_Afternoon|Thu_Morning,5,3.3
+M114,Mentor_114,Kinesthetic,Data Structures|Machine Learning|Database Systems,Fri_Afternoon|Fri_Evening|Mon_Afternoon|Sat_Morning|Tue_Afternoon|Tue_Morning|Wed_Evening|Wed_Morning,6,3.9
+M115,Mentor_115,Read-Write,Statistics|Python,Fri_Morning|Mon_Afternoon|Wed_Afternoon,4,3.4
+M116,Mentor_116,Read-Write,Web Development,Mon_Morning|Thu_Afternoon|Thu_Evening|Tue_Morning|Wed_Afternoon,7,3.4
+M117,Mentor_117,Read-Write,Java|Calculus,Fri_Afternoon|Fri_Morning|Mon_Afternoon,4,3.9
+M118,Mentor_118,Kinesthetic,Operating Systems,Fri_Afternoon|Fri_Morning|Mon_Afternoon|Mon_Morning|Thu_Morning|Tue_Evening|Wed_Morning,5,4.6
+M119,Mentor_119,Kinesthetic,Python|Operating Systems|Machine Learning,Fri_Afternoon|Fri_Morning|Wed_Afternoon,8,3.2
+M120,Mentor_120,Read-Write,Operating Systems|Calculus,Mon_Evening|Sat_Afternoon|Tue_Morning|Wed_Evening,8,3.4
+M121,Mentor_121,Auditory,Operating Systems|Web Development,Tue_Afternoon|Wed_Evening|Wed_Morning,5,4.2
+M122,Mentor_122,Kinesthetic,Machine Learning|Web Development|Python,Fri_Afternoon|Fri_Evening|Mon_Afternoon|Mon_Evening|Sat_Afternoon|Thu_Afternoon|Wed_Afternoon,7,4.3
+M123,Mentor_123,Read-Write,Statistics|Data Structures,Fri_Afternoon|Fri_Evening|Mon_Evening|Mon_Morning|Thu_Morning|Tue_Evening|Wed_Afternoon,6,3.2
+M124,Mentor_124,Kinesthetic,Statistics,Fri_Evening|Fri_Morning|Mon_Afternoon|Sat_Evening|Sat_Morning|Thu_Morning,5,3.6
+M125,Mentor_125,Visual,Java|Web Development,Mon_Evening|Sat_Afternoon|Sat_Morning|Thu_Afternoon|Tue_Morning|Wed_Evening,4,3.5
+M126,Mentor_126,Auditory,Python|Java,Fri_Morning|Sat_Morning|Thu_Evening|Thu_Morning|Wed_Morning,6,4.4
+M127,Mentor_127,Visual,Operating Systems,Fri_Morning|Thu_Evening|Thu_Morning|Tue_Afternoon|Tue_Morning,8,4.7
+M128,Mentor_128,Read-Write,Machine Learning|Web Development,Fri_Morning|Mon_Evening|Sat_Afternoon|Tue_Afternoon|Wed_Evening,7,4.3
+M129,Mentor_129,Visual,Web Development|Java,Fri_Afternoon|Mon_Evening|Mon_Morning|Sat_Afternoon|Thu_Evening|Tue_Afternoon|Tue_Evening|Tue_Morning,6,4.9
+M130,Mentor_130,Auditory,Calculus|Statistics,Mon_Evening|Thu_Morning|Tue_Morning|Wed_Evening,8,4.7
+M131,Mentor_131,Kinesthetic,Data Structures|Operating Systems|Web Development,Sat_Afternoon|Sat_Evening|Thu_Evening|Tue_Evening,7,3.1
+M132,Mentor_132,Read-Write,Calculus|Python,Fri_Afternoon|Fri_Evening|Fri_Morning|Sat_Afternoon|Sat_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon,6,4.4
+M133,Mentor_133,Kinesthetic,Python|Statistics|Database Systems,Fri_Afternoon|Fri_Morning|Sat_Afternoon|Sat_Evening|Thu_Morning|Tue_Evening|Tue_Morning,5,4.7
+M134,Mentor_134,Read-Write,Python,Fri_Morning|Mon_Afternoon|Mon_Evening|Sat_Afternoon|Sat_Evening|Tue_Afternoon|Tue_Morning,6,3.9
+M135,Mentor_135,Auditory,Web Development|Computer Networks|Machine Learning,Fri_Afternoon|Mon_Morning|Sat_Afternoon|Thu_Evening|Wed_Evening|Wed_Morning,6,3.5
+M136,Mentor_136,Auditory,Operating Systems,Sat_Evening|Thu_Afternoon|Tue_Morning,5,3.3
+M137,Mentor_137,Kinesthetic,Python|Web Development,Mon_Evening|Mon_Morning|Sat_Afternoon|Sat_Evening|Tue_Afternoon|Tue_Morning,8,4.9
+M138,Mentor_138,Read-Write,Java|Computer Networks|Machine Learning,Mon_Afternoon|Sat_Afternoon|Thu_Morning|Tue_Morning,7,4.3
+M139,Mentor_139,Kinesthetic,Python|Machine Learning|Java,Mon_Evening|Mon_Morning|Sat_Evening|Thu_Evening|Tue_Afternoon|Wed_Afternoon|Wed_Morning,4,4.2
+M140,Mentor_140,Kinesthetic,Statistics,Mon_Afternoon|Mon_Evening|Sat_Afternoon|Thu_Evening,8,4.1
+M141,Mentor_141,Kinesthetic,Java|Data Structures|Computer Networks,Fri_Morning|Thu_Evening|Wed_Evening,4,3.7
+M142,Mentor_142,Auditory,Operating Systems,Fri_Afternoon|Mon_Morning|Sat_Afternoon|Thu_Afternoon|Tue_Afternoon|Tue_Evening|Tue_Morning|Wed_Evening,5,4.7
+M143,Mentor_143,Auditory,Python|Statistics|Web Development,Fri_Evening|Mon_Afternoon|Thu_Morning,5,3.1
+M144,Mentor_144,Read-Write,Data Structures,Fri_Morning|Mon_Morning|Sat_Afternoon|Sat_Morning|Tue_Afternoon,5,3.6
+M145,Mentor_145,Read-Write,Operating Systems,Fri_Afternoon|Fri_Morning|Thu_Evening,7,4.8
+M146,Mentor_146,Kinesthetic,Operating Systems|Web Development,Fri_Afternoon|Fri_Morning|Mon_Afternoon|Sat_Afternoon|Sat_Morning|Thu_Evening|Wed_Evening|Wed_Morning,7,4.2
+M147,Mentor_147,Read-Write,Java,Mon_Evening|Sat_Morning|Thu_Afternoon|Tue_Afternoon|Tue_Morning,6,3.9
+M148,Mentor_148,Read-Write,Computer Networks|Web Development|Python,Fri_Afternoon|Fri_Morning|Mon_Afternoon|Thu_Afternoon|Thu_Evening|Tue_Afternoon,4,3.2
+M149,Mentor_149,Visual,Computer Networks|Operating Systems|Web Development,Fri_Evening|Mon_Afternoon|Sat_Afternoon|Tue_Afternoon,5,4.6
+M150,Mentor_150,Visual,Operating Systems|Computer Networks,Fri_Evening|Fri_Morning|Mon_Afternoon|Thu_Evening|Tue_Afternoon|Tue_Evening|Wed_Afternoon,8,3.3
+M151,Mentor_151,Read-Write,Computer Networks|Operating Systems,Mon_Morning|Tue_Evening|Tue_Morning|Wed_Afternoon,8,3.8
+M152,Mentor_152,Kinesthetic,Machine Learning|Database Systems|Java,Mon_Afternoon|Sat_Morning|Thu_Morning|Wed_Morning,5,4.7
+M153,Mentor_153,Visual,Web Development|Python,Fri_Evening|Fri_Morning|Mon_Evening|Sat_Morning|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Wed_Evening,5,4.6
+M154,Mentor_154,Auditory,Calculus|Machine Learning|Statistics,Mon_Morning|Sat_Morning|Thu_Evening|Wed_Evening,8,3.7
+M155,Mentor_155,Read-Write,Web Development|Machine Learning|Java,Fri_Afternoon|Fri_Morning|Sat_Afternoon|Sat_Morning|Thu_Morning|Wed_Morning,4,3.3
+M156,Mentor_156,Kinesthetic,Machine Learning|Python,Fri_Afternoon|Fri_Evening|Fri_Morning|Sat_Afternoon|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Wed_Evening,8,3.4
+M157,Mentor_157,Visual,Computer Networks,Sat_Afternoon|Thu_Morning|Tue_Afternoon,5,3.3
+M158,Mentor_158,Visual,Calculus|Operating Systems|Database Systems,Sat_Morning|Thu_Afternoon|Tue_Afternoon|Wed_Evening|Wed_Morning,8,4.1
+M159,Mentor_159,Read-Write,Web Development|Statistics|Java,Fri_Morning|Mon_Afternoon|Mon_Evening|Mon_Morning|Sat_Afternoon|Thu_Afternoon|Thu_Morning,6,4.3
+M160,Mentor_160,Read-Write,Computer Networks|Data Structures|Python,Fri_Evening|Fri_Morning|Sat_Morning|Thu_Afternoon|Thu_Morning|Tue_Afternoon|Wed_Afternoon|Wed_Morning,7,3.1
+M161,Mentor_161,Kinesthetic,Web Development,Fri_Evening|Mon_Evening|Sat_Morning|Thu_Morning|Tue_Evening|Wed_Morning,6,4.7
+M162,Mentor_162,Auditory,Operating Systems|Computer Networks,Sat_Afternoon|Sat_Evening|Thu_Afternoon|Tue_Morning|Wed_Afternoon,4,3.5
+M163,Mentor_163,Visual,Web Development,Fri_Afternoon|Fri_Morning|Thu_Morning,5,4.9
+M164,Mentor_164,Read-Write,Operating Systems,Fri_Evening|Sat_Morning|Tue_Evening|Wed_Afternoon,6,4.0
+M165,Mentor_165,Kinesthetic,Computer Networks,Mon_Afternoon|Mon_Morning|Thu_Evening|Wed_Morning,6,4.0
+M166,Mentor_166,Visual,Python|Database Systems|Data Structures,Fri_Morning|Thu_Evening|Tue_Afternoon|Tue_Evening|Wed_Evening|Wed_Morning,4,3.8
+M167,Mentor_167,Read-Write,Java|Calculus|Operating Systems,Fri_Evening|Fri_Morning|Sat_Afternoon,8,3.6
+M168,Mentor_168,Visual,Statistics|Machine Learning|Web Development,Fri_Morning|Mon_Evening|Sat_Evening|Thu_Afternoon|Thu_Evening|Tue_Morning,8,4.0
+M169,Mentor_169,Auditory,Data Structures|Statistics|Java,Fri_Evening|Mon_Evening|Sat_Afternoon|Sat_Morning|Thu_Afternoon|Thu_Morning|Tue_Evening|Wed_Evening,8,3.6
+M170,Mentor_170,Read-Write,Statistics|Database Systems,Fri_Afternoon|Mon_Morning|Sat_Afternoon|Sat_Morning|Thu_Morning|Tue_Evening|Wed_Afternoon,6,4.3
+M171,Mentor_171,Visual,Statistics|Database Systems,Mon_Morning|Sat_Evening|Sat_Morning|Thu_Evening|Thu_Morning|Wed_Afternoon|Wed_Evening,5,4.0
+M172,Mentor_172,Auditory,Statistics|Computer Networks|Web Development,Mon_Morning|Tue_Morning|Wed_Morning,7,3.6
+M173,Mentor_173,Auditory,Computer Networks,Mon_Afternoon|Mon_Evening|Sat_Afternoon|Sat_Morning|Thu_Evening|Wed_Evening,5,4.1
+M174,Mentor_174,Read-Write,Python|Java|Computer Networks,Fri_Evening|Sat_Afternoon|Thu_Afternoon|Thu_Evening,6,4.2
+M175,Mentor_175,Read-Write,Calculus,Fri_Morning|Sat_Evening|Thu_Evening|Thu_Morning|Tue_Afternoon|Tue_Morning|Wed_Afternoon,7,3.6
+M176,Mentor_176,Read-Write,Java|Database Systems,Fri_Morning|Sat_Afternoon|Sat_Evening,6,4.9
+M177,Mentor_177,Visual,Database Systems,Fri_Evening|Mon_Evening|Thu_Afternoon|Thu_Evening|Tue_Afternoon,7,3.4
+M178,Mentor_178,Auditory,Database Systems|Java|Statistics,Mon_Afternoon|Sat_Evening|Wed_Afternoon,8,3.5
+M179,Mentor_179,Visual,Data Structures,Fri_Morning|Mon_Evening|Sat_Evening|Sat_Morning|Thu_Afternoon|Tue_Morning,4,4.9
+M180,Mentor_180,Kinesthetic,Computer Networks,Mon_Morning|Sat_Morning|Thu_Afternoon|Thu_Morning|Tue_Afternoon|Wed_Morning,4,4.3
+M181,Mentor_181,Visual,Java,Fri_Afternoon|Mon_Afternoon|Sat_Evening|Tue_Evening,7,4.6
+M182,Mentor_182,Visual,Database Systems,Thu_Afternoon|Thu_Morning|Tue_Morning,6,3.9
+M183,Mentor_183,Auditory,Java|Statistics|Python,Fri_Evening|Fri_Morning|Mon_Afternoon|Mon_Evening|Tue_Evening|Wed_Evening|Wed_Morning,7,4.3
+M184,Mentor_184,Read-Write,Web Development|Data Structures|Operating Systems,Fri_Afternoon|Fri_Morning|Sat_Afternoon|Sat_Evening|Tue_Evening|Wed_Evening|Wed_Morning,4,3.8
+M185,Mentor_185,Auditory,Web Development,Mon_Morning|Thu_Afternoon|Tue_Afternoon|Tue_Morning|Wed_Afternoon|Wed_Morning,7,4.5
+M186,Mentor_186,Read-Write,Database Systems|Data Structures,Mon_Afternoon|Mon_Evening|Sat_Afternoon|Sat_Morning|Thu_Afternoon|Thu_Evening|Tue_Afternoon|Wed_Afternoon,7,4.4
+M187,Mentor_187,Read-Write,Database Systems|Machine Learning|Statistics,Fri_Evening|Mon_Evening|Sat_Afternoon|Sat_Evening|Thu_Evening|Tue_Afternoon|Wed_Afternoon,8,3.7
+M188,Mentor_188,Auditory,Java|Python|Calculus,Fri_Evening|Mon_Afternoon|Mon_Evening|Sat_Afternoon|Thu_Evening|Thu_Morning|Tue_Evening|Wed_Evening,4,3.1
+M189,Mentor_189,Auditory,Java|Calculus|Web Development,Fri_Evening|Sat_Afternoon|Sat_Morning|Thu_Afternoon|Tue_Morning,8,4.0
+M190,Mentor_190,Auditory,Python|Data Structures|Statistics,Fri_Afternoon|Fri_Evening|Mon_Afternoon|Thu_Afternoon|Tue_Afternoon|Wed_Afternoon|Wed_Evening,4,3.8
+M191,Mentor_191,Visual,Calculus,Fri_Afternoon|Mon_Evening|Thu_Evening,8,5.0
+M192,Mentor_192,Visual,Python,Fri_Afternoon|Fri_Morning|Thu_Afternoon|Tue_Afternoon|Tue_Evening,7,3.7
+M193,Mentor_193,Kinesthetic,Python|Computer Networks,Sat_Evening|Thu_Evening|Tue_Afternoon,4,3.4
+M194,Mentor_194,Auditory,Computer Networks|Java|Web Development,Fri_Evening|Mon_Morning|Thu_Morning,8,3.8
+M195,Mentor_195,Kinesthetic,Calculus|Statistics,Fri_Evening|Thu_Evening|Tue_Afternoon|Wed_Evening|Wed_Morning,4,3.1
+M196,Mentor_196,Auditory,Computer Networks|Data Structures|Calculus,Fri_Evening|Mon_Afternoon|Tue_Morning,8,4.3
+M197,Mentor_197,Visual,Calculus,Fri_Afternoon|Fri_Evening|Fri_Morning|Sat_Evening|Wed_Afternoon|Wed_Morning,4,3.3
+M198,Mentor_198,Read-Write,Calculus|Operating Systems,Thu_Morning|Tue_Afternoon|Wed_Afternoon|Wed_Morning,6,3.6
+M199,Mentor_199,Kinesthetic,Statistics|Web Development|Computer Networks,Fri_Morning|Thu_Afternoon|Thu_Evening,7,3.8
+M200,Mentor_200,Kinesthetic,Computer Networks|Web Development,Fri_Morning|Thu_Morning|Tue_Afternoon|Wed_Afternoon,7,4.8
