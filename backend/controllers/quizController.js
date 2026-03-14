@@ -7,8 +7,8 @@ const STRONG_THRESHOLD      = 65;   // score ≥ 65% → this is actually a stro
 const WEAK_THRESHOLD        = 40;   // score < 40% on a "strong" subject → remove from strong
 
 // ── Timer per question (seconds) ──────────────────────────────────────────────
-const MENTOR_TIMER  = 5;    // Mentors get 5 seconds per question
-const STUDENT_TIMER = 10;   // Students get 10 seconds per question
+const MENTOR_TIMER  = 8;    // Mentors get 8 seconds per question
+const STUDENT_TIMER = 15;   // Students get 15 seconds per question
 
 // ── Daily limit (ms) ─────────────────────────────────────────────────────────
 const QUIZ_COOLDOWN_MS = 24 * 60 * 60 * 1000; // 24 hours

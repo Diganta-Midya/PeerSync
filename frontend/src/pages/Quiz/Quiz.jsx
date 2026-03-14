@@ -28,8 +28,8 @@ const Quiz = () => {
   const [currentIdx, setCurrentIdx] = useState(0);
   const [answers, setAnswers]     = useState([]);
   const [selected, setSelected]   = useState(null);
-  const [questionTime, setQuestionTime] = useState(10);
-  const [timeLeft, setTimeLeft]   = useState(10);
+  const [questionTime, setQuestionTime] = useState(15);
+  const [timeLeft, setTimeLeft]   = useState(15);
   const [results, setResults]     = useState(null);
   const [profileUpdate, setProfileUpdate] = useState(null);
   const [submitting, setSubmitting] = useState(false);
