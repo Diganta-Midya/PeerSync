@@ -120,3 +120,41 @@
   color: var(--primary-light);
   font-weight: 600;
 }
+
+/* ── Password Eye Toggle ──────────────────────────────────────────────── */
+.password-wrapper {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.password-wrapper input {
+  width: 100%;
+  padding-right: 44px;
+}
+
+.eye-toggle {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: var(--text-muted);
+  padding: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-sm);
+  transition: color 0.2s, background 0.2s;
+}
+
+.eye-toggle:hover {
+  color: var(--primary-light);
+  background: rgba(102, 126, 234, 0.1);
+}
+
+.eye-toggle svg {
+  display: block;
+}
